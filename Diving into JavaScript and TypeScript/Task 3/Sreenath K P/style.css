@@ -127,7 +127,7 @@ nav .right-links .search-icon:hover {
   border-radius: 3px;
   position: relative;
 }
-.search .search-icon{
+.search .search-icon {
   -webkit-transform: scaleX(-1);
   transform: scaleX(-1);
 }
